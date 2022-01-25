@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/Brent1990/shutzd/ngix-fixed",
-  "repository": "https://github.com/Brent1990/shutzd/ngix-fixed",
+  "website": "https://github.com/Brent1990/shutgd",
+  "repository": "https://github.com/Brent1990/shutgd",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
